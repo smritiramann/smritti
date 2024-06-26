@@ -42,4 +42,4 @@ function getTotalSupply() {
 mintNFT("Himalayan","adventure bike","411cc","345kmph");
 listNFTs();
 getTotalSupply();
-```
+
